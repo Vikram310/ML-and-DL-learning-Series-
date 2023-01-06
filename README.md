@@ -8,6 +8,8 @@
 - In linear regression, the most commonly used loss function is the mean squared error(MSE), given by the equation, **loss = (1/n) * ∑(predicted-actual)^2**
 -  Another commonly used loss function is the Mean Absolute error (MAE), given by the equation, **loss = (1/n) * ∑|predicted-actual|**
 
-🎯 Choosing the loss function completely depends on the problem one is trying to solve. 
+🎯 Choosing the loss function completely depends on the problem one is trying to solve.
+
 🎯 In general, MSE is more commonly used because it penalises large errors more heavily than MAEmwhich can be helpful in certain areas, and also MAE is computationally more expensive than MSE
+
 🎯 MAE is less sensitive to outliers in the data and can be used in cases where there are a few substantial errors, that should not heavily influence overall loss 
