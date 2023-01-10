@@ -28,3 +28,27 @@
 🎯 In general, MSE is more commonly used because it penalises large errors more heavily than MAEmwhich can be helpful in certain areas, and also MAE is computationally more expensive than MSE
 
 🎯 MAE is less sensitive to outliers in the data and can be used in cases where there are a few substantial errors, that should not heavily influence overall loss 
+
+
+### Multiple Linear Regression
+
+- It is a statistical method used to model the relationship between multiple independent variables and a single dependent variable by fitting a linear equation to the observed data.
+
+- The goal of multiple linear regression is to find the values of coefficients that minimize the residual sum of squares, using a method called OLS 
+(Ordinary least squares)
+
+- Only difference between Linear regression and this is the number of independent variables taken into consideration, the rest of everything is the same. 
+
+### Polynomial Regression
+
+- Polynomial regression is a form of non-linear regression which models the relationship between the independent variable x and the dependent variable y as an n-th degree polynomial. An n-th degree polynomial equation is of the form:
+
+    y = b0 + b1x + b2x^2 + ... + bn*x^n
+
+- This method can model various non-linear relationships, such as quadratic, cubic, or higher-order relationships.
+
+- The difference between this Polynomial regression and multiple linear regs lies in the type of relationship they model, multiple linear regression is restricted to Linear mod whereas polynomial regression can model non-linear relationships. 
+
+- Additionally, multiple linear regression can model a relationship between more than one independent variable, while polynomial regression uses only one independent variable and models its relationship with the dependent variable in a non-linear manner.
+
+- The higher the degree of the polynomial equation that is used, the more likely it is to overfit the data. Therefore, it is important to use cross-validation techniques to choose the degree of the polynomial equation that generalizes well to unseen data.
