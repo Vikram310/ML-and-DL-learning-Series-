@@ -1,4 +1,4 @@
-## Linear Regression
+## Linear Regression [Click Here](https://www.linkedin.com/posts/vikram--krishna_datawithvikram-activity-7018094006773456896-mEN9?utm_source=share&utm_medium=member_desktop)
 
 - Linear regression is a statistical method used to model the linear relationship between a dependent variable and an independent variable by fitting a linear equation to the observed data
 - The goal of linear regression is to find the line equation that best fits the data, called the “line of best fit” 
@@ -30,7 +30,7 @@
 🎯 MAE is less sensitive to outliers in the data and can be used in cases where there are a few substantial errors, that should not heavily influence overall loss 
 
 
-### Multiple Linear Regression
+### Multiple Linear Regression [Click here](https://www.linkedin.com/posts/vikram--krishna_datawithvikram-datascience-careers-activity-7018816774783569921-ilqt?utm_source=share&utm_medium=member_desktop)
 
 - It is a statistical method used to model the relationship between multiple independent variables and a single dependent variable by fitting a linear equation to the observed data.
 
